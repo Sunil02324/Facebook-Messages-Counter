@@ -113,11 +113,6 @@ Some of the exceptions I got are :
 -   Socket and Proxy Error. As I was behind the proxy I had tohandle these exceptions.
 
 
----
-
-And the final script looked like this.
-
-<script src="https://gist.github.com/Sunil02324/a22ca9587c453027c6b7404901d18a4b.js"></script>
 
 ---
 
