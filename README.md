@@ -120,6 +120,8 @@ Below is the image of the result of my group chat with my friends.
 
 <img class="image" src="messenger.PNG" alt="Alt Text" style="display:block;margin:0 auto;">
 
+If your chat count crosses ours, do share it with this blog and tag me or mail me.
+
 ---
 
 This script can be used to both count the messages and also log the messages. Some slight changes should be made to log the messages of the conversation. 
